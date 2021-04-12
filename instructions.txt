@@ -1,0 +1,6 @@
+First of all we have to download python and its IDE like vscode
+after that in terminal enter the following commands
+
+pip3 install pyautogui
+pip3 install pandas
+pip install opencv_python
